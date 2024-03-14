@@ -43,13 +43,6 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 *ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612425) [Code](https://github.com/RUC-AIMind/TikTalk)
 
 
-* Analysis on the collection method and simulation algorithm of Chinese speech errors
-<br>
-Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan
-<br>
-*CLSW 2022*
-
-
 ## Service
 
 * *Conference reviewer*: EMNLP, ACM MM, CVPR
