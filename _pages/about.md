@@ -14,7 +14,7 @@ Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.
 ## Research Interests
 My research interests are in Natural Language Processing and Multi-modal Understanding, with the hope of making machines perceive, understand, and express like humans. 
 
-Currently, my research focus is committed to adversarial robustness (jailbreaking LLM and mitigation), long video understanding (natural language query localization), and creative multi-modal text generation (humor and association).
+Currently, my research focus is committed to adversarial robustness studies (jailbreaking LLMs and mitigation), long video understanding (natural language query localization), and creative multi-modal text generation (humor and association).
 
 **I am open for collaborations in research. Also, I am looking for potential Ph.D. or RA. positions.**
 
