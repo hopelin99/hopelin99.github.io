@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I am a 3rd-year master student of Artificial Intelligence at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english), [Renmin University of China](https://www.ruc.edu.cn/en). I'm advised by Prof. [Ruihua Song](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=ATNUbVJhBjJRNgY3UDQFMg%3D%3D&ln=en), working on Natural Language Processing (NLP) and Multi-modal Dialogue. Prior to that, I completed my B.S. from School of Computer Science and Technology, [Xidian University](https://en.xidian.edu.cn/).
 
-Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_hongpenglin.pdf)
+Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_hongpenglin.pdf)(Last updated in Apr. 2024)
 
 ## Research Interests
 My research interests lie in Natural Language Processing and Multi-modal Understanding, for the purpose of giving machines the ability to perceive, understand, and express like humans.
