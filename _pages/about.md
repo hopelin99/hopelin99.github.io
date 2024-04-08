@@ -12,9 +12,9 @@ Welcome! I am a 3rd-year master student of Artificial Intelligence at [Gaoling S
 Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_HongpengLin.pdf) (Last updated in Apr. 2024)
 
 ## Research Interests
-My research interests lie in Natural Language Processing and Multi-modal Understanding, for the purpose of giving machines the ability to perceive, understand, and express like humans.
+My research interests are in Natural Language Processing and Multi-modal Understanding, with the hope of making machines perceive, understand, and express like humans. 
 
-I have been dedicated to equipping large language models (LLMs) with the capability to process multi-modal information, endowing them with the capacity to perceive the world. Some of my recent projects include addressing QA for long-form videos and exploring vulnerabilities in large language models.
+Currently, my research focus is committed to adversarial robustness (jailbreaking LLM and mitigation), long video understanding (natural language query localization), and creative multi-modal text generation (humor and association).
 
 **I am open for collaborations in research. Also, I am looking for potential Ph.D. or RA. positions.**
 
