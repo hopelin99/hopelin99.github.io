@@ -20,7 +20,13 @@ Currently, my research focus is committed to adversarial robustness (jailbreakin
 
 
 ## News
-**05/2024** &nbsp;&nbsp;&nbsp;&nbsp; Our paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%** is accepted by ACL 2024 Main Conference!
+**05/2024** &nbsp;&nbsp;&nbsp;&nbsp; Our paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) is accepted by ACL 2024 Main Conference!
+
+
+
+<br>
+
+**01/2024** &nbsp;&nbsp;&nbsp;&nbsp; Check our new paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%**.
 
 
 <video src="https://github.com/CHATS-lab/persuasive_jailbreaker/assets/61967882/3c04d83c-564d-40a5-87e8-423e0d377012" controls="controls" style="max-width: 730px;"></video>
@@ -32,9 +38,7 @@ Currently, my research focus is committed to adversarial robustness (jailbreakin
 
 ## Papers
 
-* How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs<br>Yi Zeng\*, **Hongpeng Lin\*** (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia*, Weiyan Shi\* (co-supervise)
-
-  <br>*ACL 2024 Main* [Project](https://chats-lab.github.io/persuasive_jailbreaker/) [Paper](https://arxiv.org/abs/2401.06373) [Code](https://github.com/CHATS-lab/persuasive_jailbreaker)
+* How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs<br>Yi Zeng\*, **Hongpeng Lin\*** (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia*, Weiyan Shi\* (co-supervise) <br>*ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://chats-lab.github.io/persuasive_jailbreaker/) [Paper](https://arxiv.org/abs/2401.06373) [Code](https://github.com/CHATS-lab/persuasive_jailbreaker)
 
   
 
