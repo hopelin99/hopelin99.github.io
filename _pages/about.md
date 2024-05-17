@@ -20,9 +20,7 @@ Currently, my research focus is committed to adversarial robustness (jailbreakin
 
 
 ## News
-**05/2024** &nbsp;&nbsp;&nbsp;&nbsp; Our paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) is accepted by ACL 2024 Main Conference!
-
-<br>
+**05/2024** &nbsp;&nbsp;&nbsp;&nbsp; Our paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) is accepted by ACL 2024 Main Conference!<br>
 
 **01/2024** &nbsp;&nbsp;&nbsp;&nbsp; Check our new paper on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%**.
 
