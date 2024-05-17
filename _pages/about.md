@@ -38,7 +38,7 @@ Currently, my research focus is committed to adversarial robustness (jailbreakin
 
 * TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World<br>
 **Hongpeng Lin\***, Ludan Ruan\*, Wenke Xia\*, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu<br>
-*ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612425) [Code](https://github.com/RUC-AIMind/TikTalk)
+*ACM MM 2023 (Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612425) [Code](https://github.com/RUC-AIMind/TikTalk)
 
 
 ## Service
